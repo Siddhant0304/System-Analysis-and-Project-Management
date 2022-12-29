@@ -1,13 +1,15 @@
 System Analysis and Project Management
 
-Objective: 1. To study  and understand the requirements of the Fitness Application (FitPal App) 
-           2. Analyze and identify the system needs.
-           3. Identify potential classes based on Object Oriented Concepts
-           4. Create Class Diagram
-           5. Create Usecase Diagram
-           6. Identify the Critical Path of the project
-           7. Calculate Earned Value Management of the project
-           8. Create Window Navigation DIagrams / UI
+Objective: 
+
+1. To study  and understand the requirements of the Fitness Application (FitPal App) 
+2. Analyze and identify the system needs.
+3. Identify potential classes based on Object Oriented Concepts
+4. Create Class Diagram
+5. Create Usecase Diagram
+6. Identify the Critical Path of the project
+7. Calculate Earned Value Management of the project
+8. Create Window Navigation DIagrams / UI
            
 Case Study: 
  
