@@ -4,7 +4,7 @@ Objective:
 
 1. To study  and understand the requirements of the Fitness Application (FitPal App) 
 2. Analyze and identify the system needs.
-3. Identify potential classes based on Object Oriented Concepts
+3. Identify potential classes and attributes based on Object Oriented Concepts
 4. Create Class Diagram
 5. Create Usecase Diagram
 6. Identify the Critical Path of the project
