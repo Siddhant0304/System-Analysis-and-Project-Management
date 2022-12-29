@@ -6,7 +6,7 @@ Objective:
 2. Analyze and identify the system needs.
 3. Identify potential classes and attributes based on Object Oriented Concepts
 4. Create Class Diagram
-5. Create Usecase Diagram
+5. Create Usecase Diagram and Usecase Discription
 6. Identify the Critical Path of the project
 7. Calculate Earned Value Management of the project
 8. Create Window Navigation DIagrams / UI
